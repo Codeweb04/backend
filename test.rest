@@ -1,0 +1,10 @@
+GET http://localhost:4000/dashboardata
+# Content-Type: "application/json"
+
+# {
+#     "uname": "feutest1",
+#     "question": "Is this a question?",
+#     "description": "Detailed description",
+#     "tags": "test1"   
+# }
+
